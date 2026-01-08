@@ -10,4 +10,4 @@ A movie discovery app with trending titles, fast search, and a responsive UI - p
 ### 🛒 Shop - Modular ASP.NET Core MVC app
 A modular full-stack ASP.NET Core MVC application showcasing real backend patterns: authentication, email confirmation, EF Core data access, DTOs, DI, and unit tests.  
 - Repo: https://github.com/icy-s/shop  
-- Demo: *to be deployed*
+- Demo: Local run (launch from IDE)
