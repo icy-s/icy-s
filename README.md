@@ -13,13 +13,6 @@
 
 ---
 
-## What you’ll find here
-✅ **Pinned projects** with short descriptions  
-✅ **Live demos or install instructions** so you can **try everything yourself**  
-✅ Code, docs, and setup steps inside each repo
-
----
-
 ## Pinned projects (with live demos)
 
 ### 🚀 React Movie Application
