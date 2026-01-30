@@ -10,4 +10,4 @@ A movie discovery app with trending titles, fast search, and a responsive UI - p
 ### 💼 Java Employee Application
 A lightweight employee management CRUD service written in Java using Spring Boot. It provides REST endpoints to create, read, update, and delete employees, backed by a PostgreSQL database.
 - Repo: https://github.com/icy-s/java-employee-application
-- Demo: *Not available yet (work in progress!)*
+- Demo: https://java-employee-application.onrender.com/
